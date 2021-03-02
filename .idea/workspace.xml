@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="436cc354-ff28-4f6b-beac-ce647038e4fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1pClAMYFeUskqyHqduxVrh18QIS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\javie\Desktop\BeaufestChallenge\src\test\resources\features" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\javie\Desktop\BeaufestChallenge\src\test\Resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BeaufestChallenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="436cc354-ff28-4f6b-beac-ce647038e4fa" name="Default Changelist" comment="" />
+      <created>1614694808332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614694808332</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="264" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1614695228480">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="479" y="264" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.40.1366.728@0.40.1366.728" timestamp="1614695228480" />
+    <state width="1323" height="125" key="GridCell.Tab.0.bottom" timestamp="1614695557129">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="125" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1614695557129" />
+    <state width="1323" height="125" key="GridCell.Tab.0.center" timestamp="1614695557129">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="125" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1614695557129" />
+    <state width="1323" height="125" key="GridCell.Tab.0.left" timestamp="1614695557129">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="125" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1614695557129" />
+    <state width="1323" height="125" key="GridCell.Tab.0.right" timestamp="1614695557129">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="125" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1614695557129" />
+  </component>
+</project>
